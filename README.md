@@ -1,6 +1,6 @@
 👋 Hi, I’m @dusan-zdravkovic
 
-I’m a recent Physics & Biochemistry grad who enjoys applied modeling and the computational side of data analysis. I’m currently using this space for fun projects in Actuarial Science, Data Science, and Data Engineering.
+I’m currently using this space for fun projects in Actuarial Science, Data Science, and Data Engineering.
 
 🌱 I’m continuing to explore Machine Learning & AI by experimenting with real-world data and expanding my skills beyond the scientific realm.
 
